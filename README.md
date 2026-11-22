@@ -72,7 +72,7 @@ Dynamic Slicers: Real-time filtering across Subscription Status, Gender, Product
 
 (Tip: Upload an image of your Power BI dashboard to your repository and link it below)
 
---
+![Power BI Dashboard](Dashboard.jpg)
 
 
 💡 Key Results & Insights
